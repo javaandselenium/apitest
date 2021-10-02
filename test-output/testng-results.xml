@@ -2,32 +2,32 @@
 <testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-26T10:04:52 IST" name="Suite" finished-at="2021-09-26T10:04:58 IST" duration-ms="5913">
+  <suite started-at="2021-10-02T09:06:22 IST" name="Suite" finished-at="2021-10-02T09:06:32 IST" duration-ms="9653">
     <groups>
     </groups>
-    <test started-at="2021-09-26T10:04:52 IST" name="Test" finished-at="2021-09-26T10:04:58 IST" duration-ms="5913">
+    <test started-at="2021-10-02T09:06:22 IST" name="Test" finished-at="2021-10-02T09:06:32 IST" duration-ms="9653">
       <class name="com.skillrary.rmgyantra.sripts.AddingSingleProjectwithOngoingstatus">
-        <test-method signature="onGoing()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithOngoingstatus@78ffe6dc]" started-at="2021-09-26T10:04:57 IST" name="onGoing" finished-at="2021-09-26T10:04:57 IST" duration-ms="234" status="PASS">
+        <test-method signature="onGoing()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithOngoingstatus@78ffe6dc]" started-at="2021-10-02T09:06:31 IST" name="onGoing" finished-at="2021-10-02T09:06:32 IST" duration-ms="293" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- onGoing -->
       </class> <!-- com.skillrary.rmgyantra.sripts.AddingSingleProjectwithOngoingstatus -->
       <class name="com.skillrary.rmgyantra.sripts.AddingSingleprojectwithcreatedstatus">
-        <test-method signature="createStatus()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleprojectwithcreatedstatus@8317c52]" started-at="2021-09-26T10:04:57 IST" name="createStatus" finished-at="2021-09-26T10:04:58 IST" duration-ms="226" status="PASS">
+        <test-method signature="createStatus()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleprojectwithcreatedstatus@8317c52]" started-at="2021-10-02T09:06:32 IST" name="createStatus" finished-at="2021-10-02T09:06:32 IST" duration-ms="226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createStatus -->
       </class> <!-- com.skillrary.rmgyantra.sripts.AddingSingleprojectwithcreatedstatus -->
       <class name="com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus">
-        <test-method is-config="true" signature="ConfigBS()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus@5f683daf]" started-at="2021-09-26T10:04:49 IST" name="ConfigBS" finished-at="2021-09-26T10:04:52 IST" duration-ms="2803" status="PASS">
+        <test-method is-config="true" signature="ConfigBS()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus@5f683daf]" started-at="2021-10-02T09:06:16 IST" name="ConfigBS" finished-at="2021-10-02T09:06:22 IST" duration-ms="6074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigBS -->
-        <test-method signature="completed()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus@5f683daf]" started-at="2021-09-26T10:04:52 IST" name="completed" finished-at="2021-09-26T10:04:57 IST" duration-ms="5368" status="PASS">
+        <test-method signature="completed()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus@5f683daf]" started-at="2021-10-02T09:06:22 IST" name="completed" finished-at="2021-10-02T09:06:31 IST" duration-ms="9035" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- completed -->
-        <test-method is-config="true" signature="ConfigAS()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus@5f683daf]" started-at="2021-09-26T10:04:58 IST" name="ConfigAS" finished-at="2021-09-26T10:04:58 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="ConfigAS()[pri:0, instance:com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus@5f683daf]" started-at="2021-10-02T09:06:32 IST" name="ConfigAS" finished-at="2021-10-02T09:06:32 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigAS -->
