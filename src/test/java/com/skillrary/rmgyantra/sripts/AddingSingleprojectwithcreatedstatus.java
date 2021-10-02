@@ -30,13 +30,14 @@ public class AddingSingleprojectwithcreatedstatus extends BaseClass{
 		.assertThat().statusCode(201)
 		.contentType(ContentType.JSON);
 		
+		
 		//capture project name and status
 		String apiprojectname = resp.jsonPath().get("projectName");
 		System.out.println(apiprojectname);
 	String apistatus = resp.jsonPath().get("status");
 	System.out.println(apistatus);
 		
-		
+	System.out.println("Tc-2 is run successfully");
 		
 		String projectnameresult = dblib.executequeryandGetData("select * from project",4,apiprojectname);
 		String projectstatusresult = dblib.executequeryandGetData("select * from project",4,apistatus);

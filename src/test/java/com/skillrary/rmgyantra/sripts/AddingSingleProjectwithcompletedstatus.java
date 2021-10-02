@@ -34,6 +34,8 @@ public void completed() throws SQLException {
 			System.out.println(apiprojectname);
 		String apistatus = resp.jsonPath().get("status");
 		System.out.println(apistatus);
+		
+		System.out.println("Tc-1 is run successfully");
 			
 			
 			

@@ -33,7 +33,7 @@ public class AddingSingleProjectwithOngoingstatus extends BaseClass{
 	String apistatus = resp.jsonPath().get("status");
 	System.out.println(apistatus);
 		
-		
+	System.out.println("Tc-3 is run successfully");	
 		
 		String projectnameresult = dblib.executequeryandGetData("select * from project",4,apiprojectname);
 		String projectstatusresult = dblib.executequeryandGetData("select * from project",4,apistatus);
