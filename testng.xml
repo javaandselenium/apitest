@@ -5,6 +5,7 @@
     <classes>
       <class name="com.skillrary.rmgyantra.sripts.AddingSingleProjectwithcompletedstatus"/>
       <class name="com.skillrary.rmgyantra.sripts.AddingSingleProjectwithOngoingstatus"/>
+      <class name="com.skillrary.rmgyantra.sripts.De"/>
       <class name="com.skillrary.rmgyantra.sripts.AddingSingleprojectwithcreatedstatus"/>
     </classes>
   </test> <!-- Test -->
